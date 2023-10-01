@@ -15,6 +15,7 @@ The OpenAI-powered Chrome Tab Grouper is a Chrome extension that uses OpenAI API
 1.  Click on the OpenAI-powered Chrome Tab Grouper icon in the top right corner of the browser.
 2.  Click "Group Tabs" to group all open tabs by similarity based on their titles.
 3.  The extension will open a new window with the grouped tabs.
+4.  YouTube demo link: https://www.youtube.com/watch?v=jMWn5OoQS2c
 
 ## Dependencies
 
